@@ -1,0 +1,4 @@
+eudyptula
+=========
+
+The Eudyptula challenge
